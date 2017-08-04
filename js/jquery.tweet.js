@@ -289,7 +289,7 @@ $(document).ready(function() {
 
 jQuery(function($){
         $("#ticker").tweet({
-          username: "BillGates",
+          username: "CNN",
           page: 1,
           avatar_size: 32,
           count: 20,
